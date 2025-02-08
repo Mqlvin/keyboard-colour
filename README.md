@@ -2,7 +2,7 @@
 A Linux app to change lighting on your Winbond based keyboards (ZET Gaming, FL Esports etc).
 
 ## Installation 🛠️
-To install, you can try the precompiled binary in the [releases](aaaaaaaa) page. Simply download and run!<br><br>
+To install, you can try the precompiled binary in the [releases](https://github.com/Mqlvin/keyboard-colour/releases/tag/v1.0) page. Simply download and run!<br><br>
 
 Alternatively, you can compile the code from source.<br>
 Simply clone the repo, and run `cargo build --release`.<br>
