@@ -1,0 +1,16 @@
+[package]
+name = "kb-colour"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = { version = "0.30", default-features = false, features = [
+    "default_fonts",  
+    "glow",          
+    "persistence",   
+    "wayland",       
+] }
+egui = "0.30.0"
+env_logger = "0.11.5"
+rusb = "0.9.4"
+serde = "1.0.217"
